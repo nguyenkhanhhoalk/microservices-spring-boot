@@ -1,0 +1,5 @@
+srping:
+  cloud:
+    config:
+      uri:
+        - http://localhost:9196
